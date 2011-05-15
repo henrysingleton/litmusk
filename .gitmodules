@@ -22,3 +22,9 @@
 [submodule "extensions/xssfilter"]
 	path = extensions/xssfilter
 	url = git://github.com/symphonycms/xssfilter.git
+[submodule "extensions/sitemap_xml"]
+	path = extensions/sitemap_xml
+	url = https://github.com/superminge/sitemap_xml.git
+[submodule "extensions/db_sync"]
+	path = extensions/db_sync
+	url = https://github.com/nickdunn/db_sync.git
